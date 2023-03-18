@@ -39,6 +39,7 @@
     "@flashbots/ethers-provider-bundle": "^0.4.0",
     "@openzeppelin/contracts": "^4.8.2",
     "@openzeppelin/contracts-upgradeable": "^4.8.2",
+    "@openzeppelin/hardhat-upgrades": "^1.22.1",
     "ethers": "^5.4.2",
     "lodash": "^4.17.20",
     "log-timestamp": "^0.3.0",
